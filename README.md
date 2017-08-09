@@ -4,9 +4,9 @@ This is my revision resources for GCSEs I will be taking exams for Summer 2018.
 
 ## Structure
 
-Each subject contains `ROADMAP.md` which shows progress and subjects covered. Foe example:-
+Each subject contains `ROADMAP.md` which shows progress and subjects covered. For example:-
 ```
 DD/MM/YY + Completed task
          - Incomplete/Not Started task
-DD/MM/YY - Next day
+DD/MM/YY - Next day noted in book
 ```
