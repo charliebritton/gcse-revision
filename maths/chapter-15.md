@@ -30,4 +30,10 @@ Mass = Volume x Density
 
 Curved surface area of cylinder = 2pi x r x h
 Curved surface area of cone = pi x r x slant height
-Surface area of a sphere = 4 x pi x r^3
+Surface area of a sphere = 4 x pi x r^2
+
+Volume of pyrmaid = 1/3 x area of base x perpendicular height
+Volume of cone = 1/3 x pi x r^2 x perpendicular height
+Volume of sphere = 4/3 x pi x r^3
+
+
